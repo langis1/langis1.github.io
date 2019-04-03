@@ -1,0 +1,66 @@
+ body {
+	font-size: 15px;
+	font-family: 'Courier';
+	background-image: url("topography.png");
+	margin:0px;
+	
+}
+#Name  	{
+	color: black;
+	font-size: 30px;
+	
+}
+
+#Name2 	{
+	color: #ff0099;
+	font-size: 30px;
+
+}
+
+.wiki	{
+	text-align: center;
+	font-size: 30px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: right;
+
+}
+
+span {
+	margin-left: 10%;
+}
+
+#NAV {
+	margin-right: 10%;
+
+}
+
+li a {
+  display: block;
+  color: #ff0099;
+  text-align: center;
+  padding: 14px 16px;
+  
+}
+
+
+li a:hover {
+  background-color: #21161A;
+}
+
+#Okraj {
+	padding: 10%;
+}
+ img {
+ 	width: 40px;
+ 	margin-left: 0%;
+ }
